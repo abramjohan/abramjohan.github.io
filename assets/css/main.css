@@ -598,6 +598,15 @@ input, select, textarea {
 			padding: 0;
 		}
 
+		div.workplace h3 {
+			text-decoration: underline;
+		  }
+
+		  a {
+	
+			text-decoration: underline;
+		  }
+		  
 /* Icon */
 
 	.icon {
@@ -627,6 +636,8 @@ input, select, textarea {
 			line-height: inherit;
 		}
 
+		
+		  
 		.icon.solid:before {
 			font-weight: 900;
 		}
@@ -662,8 +673,7 @@ input, select, textarea {
 			transition: opacity 0.2s ease-in-out, transform 0.2s ease-in-out;
 		  }
 		  
-
-  
+		
 
 	.image {
 		border-radius: 4px;
